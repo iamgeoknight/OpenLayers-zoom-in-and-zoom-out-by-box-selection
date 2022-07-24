@@ -1,0 +1,1 @@
+# OpenLayers-zoom-in-and-zoom-out-by-box-selection
